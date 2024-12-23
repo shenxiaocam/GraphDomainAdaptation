@@ -1,5 +1,5 @@
 # Graph Domain Adaptation
-A list of Graph Domain Adaptation methods proposed by my group. 
+A list of Graph Domain Adaptation methods proposed by our group. 
 
 Please cite our papers as follows if you use our codes or datasets. Thanks for your support!
 
