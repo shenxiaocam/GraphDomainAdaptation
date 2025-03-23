@@ -8,7 +8,7 @@ Please cite our papers as follows if you use our codes or datasets. Thanks for y
 
 [2] Xiao Shen, Quanyu Dai*, Sitong Mao, Fu-lai Chung, and Kup-Sze Choi, Network together: Node classification via cross-network deep network embedding, IEEE Transactions on Neural Networks and Learning Systems (IEEE TNNLS), vol. 32, no. 5, pp. 1935-1948, 2021. (IF= 11.683, 中科院SCI大类一区, 唯一第一作者) https://github.com/shenxiaocam/CDNE
 
-[3] Xiao Shen, Quanyu Dai, Fu-lai Chung, Wei Lu, and Kup-Sze Choi, Adversarial deep network embedding for cross-network node classification, Proceedings of AAAI Conference on Artificial Intelligence (AAAI), 2020.04. (CCF A类顶会, 唯一第一作者) https://github.com/3480430977/ACDNE
+[3] Xiao Shen, Quanyu Dai, Fu-lai Chung, Wei Lu, and Kup-Sze Choi, Adversarial deep network embedding for cross-network node classification, Proceedings of AAAI Conference on Artificial Intelligence (AAAI), pp. 2991-2999, 2020. (CCF A类顶会, 唯一第一作者) https://github.com/3480430977/ACDNE
 
 [4] Quanyu Dai, Xiao-Ming Wu, Jiaren Xiao, Xiao Shen*, Dan Wang. Graph Transfer Learning via Adversarial Domain Adaptation with Graph Convolution. IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE), vol. 35, no. 5, pp. 4908-4922, 2023. (CCF A类顶刊, ESI高被引, 唯一通讯作者) https://github.com/daiquanyu/AdaGCN_TKDE
 
