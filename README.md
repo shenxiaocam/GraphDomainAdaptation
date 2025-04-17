@@ -4,7 +4,7 @@ A list of Graph Domain Adaptation methods proposed by our group.
 Please cite our papers as follows if you use our codes or datasets. Thanks for your support!
 
 # Cross-network Node Classfication
-[1] Xiao Shen, Zhihao Chen, Shirui Pan, Shuang Zhou, Laurence T. Yang, and Xi Zhou. Open-set Cross-network Node Classification via Unknown-excluded Adversarial Graph Domain Alignment. In Proceedings of AAAI Conference on Artificial Intelligence (AAAI), 2025. (CCF A类顶会, 唯一第一作者) [[Paper](https://arxiv.org/abs/2502.10967)], [[Code](https://github.com/3480430977/UAGA)]
+[1] Xiao Shen, Zhihao Chen, Shirui Pan, Shuang Zhou, Laurence T. Yang, and Xi Zhou. Open-set Cross-network Node Classification via Unknown-excluded Adversarial Graph Domain Alignment. In Proceedings of AAAI Conference on Artificial Intelligence (AAAI), pp. 20398-20408, 2025. (CCF A类顶会, 唯一第一作者) [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/34247)], [[Code](https://github.com/3480430977/UAGA)]
 
 [2] Xiao Shen, Quanyu Dai*, Sitong Mao, Fu-lai Chung, and Kup-Sze Choi, Network together: Node classification via cross-network deep network embedding, IEEE Transactions on Neural Networks and Learning Systems (IEEE TNNLS), vol. 32, no. 5, pp. 1935-1948, 2021. (IF= 11.683, 中科院SCI大类一区, 唯一第一作者) [[Paper](https://ieeexplore.ieee.org/abstract/document/9108549/)], [[Code](https://github.com/shenxiaocam/CDNE)]
 
