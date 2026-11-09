@@ -1,5 +1,5 @@
 # Graph Domain Adaptation
-A list of Graph Domain Adaptation methods proposed by our group. 
+A list of Graph Domain Adaptation methods proposed by my team. 
 
 Please cite our papers as follows if you use our codes or datasets. Thanks for your support!
 
@@ -16,10 +16,10 @@ Please cite our papers as follows if you use our codes or datasets. Thanks for y
 
 [6] Quanyu Dai, Xiao-Ming Wu, Jiaren Xiao, Xiao Shen*, Dan Wang. Graph Transfer Learning via Adversarial Domain Adaptation with Graph Convolution. IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE), vol. 35, no. 5, pp. 4908-4922, 2023. (CCF A类国际期刊, ESI高被引, 唯一通讯作者，引用255次)  [[Paper](https://ieeexplore.ieee.org/abstract/document/9684927/)], [[Code](https://github.com/daiquanyu/AdaGCN_TKDE)] 
 
-[7] Xiao Shen, Shirui Pan, Kup-Sze Choi, Xi Zhou*. Domain-adaptive Message Passing Graph Neural Network. Neural Networks, vol. 164, pp. 439-454, 2023. (IF= 7.9, 中科院SCI大类一区, 唯一第一作者，引用46次) [[Paper](https://www.sciencedirect.com/science/article/pii/S0893608023002253)], [[Code](https://github.com/shenxiaocam/dm_gnn)] 
+[7] Xiao Shen, Shirui Pan, Kup-Sze Choi, Xi Zhou*. Domain-adaptive Message Passing Graph Neural Network. Neural Networks, vol. 164, pp. 439-454, 2023. (中科院SCI大类一区, 唯一第一作者，引用46次) [[Paper](https://www.sciencedirect.com/science/article/pii/S0893608023002253)], [[Code](https://github.com/shenxiaocam/dm_gnn)] 
 
 # Cross-network Edge Classfication
 [8] Xiao Shen*, Mengqiu Shao, Shirui Pan, Laurence T. Yang, and Xi Zhou. Domain-adaptive Graph Attention-supervised Network for Cross-network Edge Classification. IEEE Transactions on Neural Networks and Learning Systems (IEEE TNNLS), vol. 35, no. 12, pp. 17842-17855, 2024. (中科院SCI大类一区, 唯一第一作者，引用23次) [[Paper](https://ieeexplore.ieee.org/abstract/document/10246298/)], [[Code](https://github.com/Qqqq-shao/DGASN)]  
 
-[9] Mengqiu Shao, Peng Xue, Xi Zhou, and Xiao Shen*. Contrastive Domain-adaptive Graph Selective Self-training Network for Cross-network Edge Classification. Pattern Recognition, vol. 152, 110448, 2024. (IF= 8.1, 中科院SCI大类一区, 唯一通讯作者) [[Paper](https://www.sciencedirect.com/science/article/pii/S0031320324001997)], [[Code](https://github.com/Qqqq-shao/CDGSN)]  
+[9] Mengqiu Shao, Peng Xue, Xi Zhou, and Xiao Shen*. Contrastive Domain-adaptive Graph Selective Self-training Network for Cross-network Edge Classification. Pattern Recognition, vol. 152, 110448, 2024. (中科院SCI大类一区, 唯一通讯作者) [[Paper](https://www.sciencedirect.com/science/article/pii/S0031320324001997)], [[Code](https://github.com/Qqqq-shao/CDGSN)]  
 
